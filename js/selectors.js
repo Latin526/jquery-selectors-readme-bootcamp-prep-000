@@ -1,2 +1,3 @@
 // declare your functions here...
-$('#baby-ninja')
+$('img')
+$('paragraph')
