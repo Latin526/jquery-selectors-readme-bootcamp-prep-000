@@ -1,3 +1,4 @@
 // declare your functions here...
-$('img')
-$('p')
+$('img');
+$('p');
+$('baby-ninja');
